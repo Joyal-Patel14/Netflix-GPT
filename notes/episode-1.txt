@@ -1,0 +1,20 @@
+> Create React App
+> Configured tailwind css
+
+
+# Features
+- Login / Signup page
+    - Sign In / Sign Up form
+    - redirect
+
+- Browse(after authentication)
+    - Header
+    - Main Movie
+        - Trailer inn background
+        - Title and Description
+        - Movie suggestion
+            - Movie List * N
+
+- Netflix GPT
+    - search bar
+    - Movie suggestion
