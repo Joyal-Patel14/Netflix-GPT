@@ -1,5 +1,7 @@
 > Create React App
 > Configured tailwind css
+> Formik library for form validation
+- useRef hook
 
 
 # Features
@@ -10,7 +12,7 @@
 - Browse(after authentication)
     - Header
     - Main Movie
-        - Trailer inn background
+        - Trailer in background
         - Title and Description
         - Movie suggestion
             - Movie List * N
