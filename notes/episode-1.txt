@@ -1,7 +1,14 @@
 > Create React App
 > Configured tailwind css
 > Formik library for form validation
-- useRef hook
+> useRef hook
+> Integrate firebase authentication
+> Deploy on firebase
+> Sign up in firebase (Sign up user account)
+> Sign In in firebase
+> After sign in add user's data to the Redux store with user slice
+> Implemented signout
+> Update Profile API call
 
 
 # Features
