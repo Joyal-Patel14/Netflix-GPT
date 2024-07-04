@@ -9,7 +9,10 @@
 > After sign in add user's data to the Redux store with user slice
 > Implemented signout
 > Update Profile API call
-
+> Unsubscribe event listner to useEffect when component unmounts
+> Add constants file
+> If we wrap out <App /> inside <React.StrictMode> every component renders twice beacuse react check for any inconsistency between both renders.
+  It only hapens in dev, It will not happen on build.
 
 # Features
 - Login / Signup page
