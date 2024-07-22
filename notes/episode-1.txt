@@ -13,6 +13,14 @@
 > Add constants file
 > If we wrap out <App /> inside <React.StrictMode> every component renders twice beacuse react check for any inconsistency between both renders.
   It only hapens in dev, It will not happen on build.
+> Registered for TMDB API & create an app & get access token
+> Custom hook for Now Playing Movies
+> Create MovieSlice
+> Update store with movies data
+> Fetch data for trailer video
+> Update store for trailer video data
+> Embeded the youtube video and make it autoplay and mute
+> Added tailwind classes to MainContainer
 
 # Features
 - Login / Signup page
