@@ -21,6 +21,14 @@
 > Update store for trailer video data
 > Embeded the youtube video and make it autoplay and mute
 > Added tailwind classes to MainContainer
+> Build Secondary component
+> Build Movie List
+> Build Movie Card
+> Made custom hooks for popular movies, Now playing movies, Top Rated movies etc
+> GPT search feature
+> Made GPT search page and GPT search bar
+> Multi-lingual feature in our application
+> Integrate GPT APIs
 
 # Features
 - Login / Signup page
